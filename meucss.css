@@ -1,0 +1,25 @@
+body{
+    background-color: darkslategray;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: whitesmoke;
+}
+
+/*quando é para aplicar o estilo num elemento com id usa-se # */
+#lvalor1{
+    color: whitesmoke;
+}
+
+/*quando é para aplicar o estilo num elemento com classe utilizamos "." (ponto) */
+
+.classLabel{
+    color: whitesmoke;
+}
